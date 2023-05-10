@@ -9,7 +9,7 @@ The application will also function offline.
 
 - [Installation ⚙](#installation) 
 
-- [Preview 📷](#preview)
+- [Images 📷](#images)
 
 - [Contributors 😎](#contributors)
 
@@ -52,12 +52,12 @@ THEN I should have proper build scripts for a webpack application
 ```
 ## Installation
 ```
-npm init -y
-npm i
+npm run build
+npm run start:dev
 ```
 
 
-## Preview
+## Images
 (TBA)
 
 
