@@ -7,6 +7,8 @@ The application will also function offline.
 
 - [Accepting Criteria ✅](#accepting-criteria)
 
+- [Deployed Heroku Link](#deployed-heroku-link)
+
 - [Installation ⚙](#installation) 
 
 - [Images 📷](#images)
@@ -50,16 +52,28 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
+
+## Deployed Heroku Link
+[Heroku link to application](https://text-editor-19-challengee.herokuapp.com/)
+
 ## Installation
 ```
 npm run build
 npm run start:dev
 ```
 
-
 ## Images
-(TBA)
+```manifest.json``` file
 
+![text editor manifest json](https://github.com/ccvuong/Text-Editor/assets/116984891/93e52a42-f488-4c75-adbc-3352ec36ccd0)
+
+``` service worker ``` of application
+
+![text editor service worker](https://github.com/ccvuong/Text-Editor/assets/116984891/2c06ae81-1986-437e-b195-7519d78c8933)
+
+``` IndexedDB storage ``` of application
+
+![text editor indexDB](https://github.com/ccvuong/Text-Editor/assets/116984891/2e3714fa-7923-4196-bdf7-a3a756824c00)
 
 
 ## Contributors
